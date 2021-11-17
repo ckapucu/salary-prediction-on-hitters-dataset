@@ -54,4 +54,4 @@ To run this python code, you will need to add the following modules to your envi
 
 `xgboost` `lightgbm` 
 
-You can install these modules with `pip install xgboost` `pip install lightgbm`
+You can install these modules with `pip install xgboost` and `pip install lightgbm`
